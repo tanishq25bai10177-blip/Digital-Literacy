@@ -37,3 +37,54 @@ I created/updated accounts on the following platforms:
 Setting up these profiles was straightforward but required attention to detail to keep them professional and minimal. I found it interesting how each platform serves a different purpose—GitHub for projects, LinkedIn for networking, and Kaggle for learning. Together, they form the foundation of my digital portfolio.
 ## Deliverable
 Screenshots of all profiles are included in the `task-2-portfolio/` folder of this repository.
+
+# Task 3 - Coding & Collaboration Platforms
+## Overview
+This task introduced me to coding practice platforms and cloud collaboration tools. The goal was to strengthen both technical problem-solving skills and collaborative resource creation.
+## Platforms Used
+- **HackerRank** – Completed the beginner-level challenge *Solve Me First*.  
+- **Google Forms** – Designed a 5-question *Digital Literacy Awareness Quiz* with multiple-choice and short-answer questions. Linked responses to a Google Sheet for analysis.
+## Purpose
+- **HackerRank**: Helps students practice coding, improve logic, and earn badges that reflect skill progress.  
+- **Google Forms**: Enables easy creation of surveys and quizzes, and supports collaboration through shared response sheets.
+## Reflection
+This task was engaging because it combined coding with collaboration. Solving a challenge on HackerRank boosted my confidence in programming, while creating a Google Form showed me how cloud tools can be used for peer learning and feedback. The challenge was balancing clarity and creativity in quiz design, but overall it demonstrated how these platforms enhance digital literacy.
+## Deliverable
+Screenshots of the HackerRank challenge and the Google Form (including linked response sheet) are included in the `task-3-platforms/` folder of this repository.
+
+# Task 4 - Professional Email & Etiquette Guide
+## Overview
+This task focused on practicing professional online communication by drafting formal emails and creating a social media etiquette checklist. The goal was to demonstrate clarity, tone, and responsibility in digital communication.
+## Deliverables
+- **Email 1**: Request to a professor for an extension on an assignment deadline.  
+- **Email 2**: Expression of interest to an internship coordinator for a summer opportunity.  
+- **Social Media Checklist**: A list of 5 Do’s and 5 Don’ts for responsible social media use as a college student.
+## Key Learnings
+- Professional emails must include:  
+  - Clear subject lines  
+  - Polite greetings  
+  - Concise body content  
+  - Proper sign-offs  
+- Social media etiquette is equally important for maintaining a positive digital presence.
+## Reflection
+This task highlighted how poor communication can lead to misunderstandings or missed opportunities. I realized that professionalism in tone, clarity in writing, and responsibility in online behavior are essential skills for both academic and career success.
+## Deliverable Location
+All drafts and the checklist are included in the `task-4-email-etiquette/` folder of this repository.
+
+# Task 5 - Cybercrime Awareness Case Study & Prevention Guide
+## Overview
+This task focused on researching a cybercrime scenario and creating a prevention guide to help students stay safe online. The goal was to raise awareness about common threats and provide actionable safety tips.
+## Case Study
+- **Topic Chosen**: Phishing Attacks  
+- **Description**: Phishing occurs when attackers send fraudulent emails or messages that appear legitimate, tricking users into revealing sensitive information such as passwords or bank details. Students are often targeted due to lack of awareness, leading to risks like identity theft or financial loss.
+## Prevention Checklist
+Key tips included:
+- Verify sender details before responding.  
+- Avoid clicking unknown links or attachments.  
+- Use strong passwords and enable two-factor authentication.  
+- Be cautious with UPI/online payment requests.  
+- Report suspicious activity via the National Cyber Crime Portal (cybercrime.gov.in) or Helpline 1930.
+## Reflection
+I was surprised by how convincing phishing messages can look. This task taught me the importance of vigilance, and I plan to personally adopt the habit of double-checking all emails and links before responding.
+## Deliverable Location
+The case study and prevention checklist are included in the `task-5-cybercrime/` folder of this repository.
