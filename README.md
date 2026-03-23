@@ -20,3 +20,20 @@ The infographic covers the following topics:
 Designing the infographic was interesting because it required condensing complex ideas into short, clear points. The challenge was balancing visual appeal with readability, ensuring the slide remained uncluttered while covering multiple topics.
 ## Deliverable
 The final infographic image is included in the `task-1-presentation/` folder of this repository.
+
+# Task 2 - Student Digital Portfolio
+## Overview
+This task focused on building a professional digital presence across key platforms that are widely used in academics, internships, and industry. The goal was to set up foundational profiles that reflect my identity as a student and future professional.
+## Platforms Chosen
+I created/updated accounts on the following platforms:
+- **GitHub** – Profile README with my name, branch, year, and learning goals.
+- **LinkedIn** – Education section filled with current degree, institution, and expected graduation year.
+- **Kaggle** – Account created to explore datasets and practice machine learning.
+## Purpose of Each Platform
+- **GitHub**: Showcases coding projects, repositories, and collaboration skills.  
+- **LinkedIn**: Builds a professional network and highlights academic achievements.  
+- **Kaggle**: Provides opportunities to practice data science and participate in competitions. 
+## Reflection
+Setting up these profiles was straightforward but required attention to detail to keep them professional and minimal. I found it interesting how each platform serves a different purpose—GitHub for projects, LinkedIn for networking, and Kaggle for learning. Together, they form the foundation of my digital portfolio.
+## Deliverable
+Screenshots of all profiles are included in the `task-2-portfolio/` folder of this repository.
